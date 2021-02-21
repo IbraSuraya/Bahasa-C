@@ -1,2 +1,5 @@
 # Bahasa-C
-Project
+- Project C
+- Materi
+- Bahan Konten
+- Teknik Baru
